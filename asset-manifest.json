@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/ess-litiges-sahline/static/css/main.c32a10fb.css",
-    "main.js": "/ess-litiges-sahline/static/js/main.f8687c21.js",
+    "main.css": "/ess-litiges-sahline/static/css/main.c7e63885.css",
+    "main.js": "/ess-litiges-sahline/static/js/main.5b2d1093.js",
     "static/js/592.7f72a991.chunk.js": "/ess-litiges-sahline/static/js/592.7f72a991.chunk.js",
     "static/media/etoile.png": "/ess-litiges-sahline/static/media/etoile.f7704617ad7f6defa947.png",
+    "static/media/saddem.jpg": "/ess-litiges-sahline/static/media/saddem.7012422f645daa6c1803.jpg",
+    "static/media/khaled.jpg": "/ess-litiges-sahline/static/media/khaled.3005d9f44340773dcf77.jpg",
+    "static/media/karim.jpg": "/ess-litiges-sahline/static/media/karim.df9cc34406ca104aaeb2.jpg",
     "static/media/user.png": "/ess-litiges-sahline/static/media/user.4e7acd21ce70331b78dd.png",
+    "static/media/housem.jpg": "/ess-litiges-sahline/static/media/housem.e9ff425ba3a4b5aac4fd.jpg",
     "index.html": "/ess-litiges-sahline/index.html",
-    "main.c32a10fb.css.map": "/ess-litiges-sahline/static/css/main.c32a10fb.css.map",
-    "main.f8687c21.js.map": "/ess-litiges-sahline/static/js/main.f8687c21.js.map",
+    "main.c7e63885.css.map": "/ess-litiges-sahline/static/css/main.c7e63885.css.map",
+    "main.5b2d1093.js.map": "/ess-litiges-sahline/static/js/main.5b2d1093.js.map",
     "592.7f72a991.chunk.js.map": "/ess-litiges-sahline/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c32a10fb.css",
-    "static/js/main.f8687c21.js"
+    "static/css/main.c7e63885.css",
+    "static/js/main.5b2d1093.js"
   ]
 }
