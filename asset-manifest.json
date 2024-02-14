@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ess-litiges-sahline/static/css/main.c7e63885.css",
-    "main.js": "/ess-litiges-sahline/static/js/main.70df7dfd.js",
+    "main.js": "/ess-litiges-sahline/static/js/main.7410eab9.js",
     "static/js/592.7f72a991.chunk.js": "/ess-litiges-sahline/static/js/592.7f72a991.chunk.js",
     "static/media/houssem.jpg": "/ess-litiges-sahline/static/media/houssem.5476420cda4d4241e2be.jpg",
     "static/media/etoile.png": "/ess-litiges-sahline/static/media/etoile.f7704617ad7f6defa947.png",
@@ -11,11 +11,11 @@
     "static/media/user.png": "/ess-litiges-sahline/static/media/user.4e7acd21ce70331b78dd.png",
     "index.html": "/ess-litiges-sahline/index.html",
     "main.c7e63885.css.map": "/ess-litiges-sahline/static/css/main.c7e63885.css.map",
-    "main.70df7dfd.js.map": "/ess-litiges-sahline/static/js/main.70df7dfd.js.map",
+    "main.7410eab9.js.map": "/ess-litiges-sahline/static/js/main.7410eab9.js.map",
     "592.7f72a991.chunk.js.map": "/ess-litiges-sahline/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7e63885.css",
-    "static/js/main.70df7dfd.js"
+    "static/js/main.7410eab9.js"
   ]
 }
